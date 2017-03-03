@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "2+2\n",
+    "created" : 1488545936574.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1121712984",
+    "id" : "6104DA84",
+    "lastKnownWriteTime" : 1488546681,
+    "last_content_update" : 1488546681658,
+    "path" : "~/GitHub/HarvardX_ PH525.1x Statistics and R/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
